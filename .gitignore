@@ -18,3 +18,5 @@ pm_to_blib
 .svg
 setDefs/
 
+.Rproj.user
+*.Rproj

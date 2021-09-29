@@ -1,0 +1,3 @@
+[submodule "Contrib/calvin-webwork"]
+	path = Contrib/Calvin
+	url = git@github.com:CalvinData/calvin-webwork.git
